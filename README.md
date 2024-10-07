@@ -233,7 +233,7 @@ Vous devez avoir finalement cette arborescence
     _ rpa_client/
 ```
 - **2-** Configuration
-Télécharger les fichier `docker-compose.yml` et `env.example` se trouvant à à [l'adresse-ci]() à la racine de votre dossier .
+Télécharger les fichier `docker-compose.yml` et `env.example` se trouvant à à [l'adresse-ci](https://github.com/brightmarc90/stage_rpa/blob/main/.env.example) à la racine de votre dossier .
 
 Renommer le fichier `env.example` en `.env` et modifier son contenu en suivant les mêmes étapes qu'à **l'étape 3** de l'installation de l'API sauf qu'ici le token généré par le code sera directement mis dans le fichier `.env`.
 - **3-** Construction et démarrage des conteneurs
